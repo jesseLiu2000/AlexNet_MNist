@@ -1,2 +1,4 @@
-# Undergraduate_projects
+# AlexNet network for handwritten digit recognition based on MNist datasets
+
+
 
